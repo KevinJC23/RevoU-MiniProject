@@ -300,3 +300,13 @@ footer {
 span {
     margin-left: 10px;
 }
+
+@media screen and (max-width: 1500px) {
+    aside {
+       margin-right: 70px;
+    }
+
+    #information {
+        margin-left: -10px;
+    }
+}
